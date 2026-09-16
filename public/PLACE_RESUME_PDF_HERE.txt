@@ -1,0 +1,4 @@
+Add your resume PDF to this folder, named to match `resumeFile` in
+app/lib/data.ts (defaults to Haritha_M_A_Resume.pdf).
+
+You can delete this file once you've added your resume.
